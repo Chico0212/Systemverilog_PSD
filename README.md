@@ -1,2 +1,2 @@
 # Systemverilog_PSD
-Repositório da disciplina de PSD
+Repositório pra guardar meus estudos em system verilog
