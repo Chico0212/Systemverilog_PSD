@@ -9,7 +9,6 @@ module tb();
     ud = 1;
     rst = 0;
     
-    
     for(byte i=0; i < 25;i++) begin
       #1
       clk = 1;
